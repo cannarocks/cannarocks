@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2011<br>💼 Leading an awesome group of devs in @Unguess<br>📚 Currently learning generative AI<br>☀️ Made in Sicily</p>
+<p align="left">✨ Creating bugs since 2011<br>💼 Leading an awesome group of devs in [@UNGUESS](https://github.com/AppQuality) <br>📚 Currently learning generative AI<br>☀️ Made in Sicily</p>
 
 ###
 
