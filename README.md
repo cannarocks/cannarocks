@@ -79,7 +79,7 @@
 
 ###
 
-<img src="github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/cannarocks/cannarocks/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
