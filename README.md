@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2011<br>💼 Leading an awesome group of devs in [@UNGUESS](https://github.com/AppQuality) <br>📚 Currently learning generative AI<br>☀️ Made in Sicily</p>
+<p align="left">✨ Creating bugs since 2011<br>💼 Leading an awesome group of devs in <a href="https://github.com/AppQuality" target="_blank">@UNGUESS</a> <br>📚 Currently learning generative AI<br>☀️ Made in Sicily</p>
 
 ###
 
@@ -15,10 +15,10 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://linkedin.com/in/cannarozzoluca" target="_blank">
+  <a href="https://linkedin.com/in/cannarozzoluca" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/cannarocks" target="_blank">
+  <a href="https://instagram.com/cannarocks" target="_blank" style="text-decoration: none">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
