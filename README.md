@@ -23,7 +23,7 @@
   </a>
 </div>
 <div align="right">
- [![](https://visitcount.itsvg.in/api?id=cannarocks&icon=0&color=0)](https://visitcount.itsvg.in) 
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cannarocks.cannarocks&right_color=darkred&left_text=visitors">
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cannarocks.cannarocks&right_color=darkred&left_text=visitors"  / -->
 </div>
 
