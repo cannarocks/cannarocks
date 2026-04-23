@@ -1,4 +1,12 @@
 # 👋 Hi, I'm Luca
+
+<p align="left">
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=cannarocks.cannarocks&right_color=darkred&left_text=visitors">
+</p>
+<br clear="both">
+
+###
+
 ## 🧠 What I do
 - **Head of Engineering @ UNGUESS** — leading engineering, architecture, and AI automation for enterprise workflows  
 - **Cloud-native engineering** — AWS, CDK, IaC, multi-account governance, secure pipelines  
