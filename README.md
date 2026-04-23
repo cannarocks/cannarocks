@@ -1,78 +1,79 @@
-<h1 align="left">Hi there! 👋</h1>
+# 👋 Hi, I'm Luca
+## 🧠 What I do
+- **Head of Engineering @ UNGUESS** — leading engineering, architecture, and AI automation for enterprise workflows  
+- **Cloud-native engineering** — AWS, CDK, IaC, multi-account governance, secure pipelines  
+- **AI & Agents** — LLM orchestration, retrieval pipelines, agentic workflows, observability  
+- **Compliance-first design** — audit-ready processes, traceability, reproducibility, formal controls  
+- **Developer Experience** — modular architectures, versioned workflows, maintainable systems
 
 ###
 
-<br clear="both">
+## 🛠️ Tech Stack
 
-<p align="left">✨ Creating bugs since 2011<br>💼 Leading an awesome group of devs in <a href="https://github.com/AppQuality" target="_blank">@UNGUESS</a><br>☀️ Made in Sicily</p>
-<p align="left">
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=cannarocks.cannarocks&right_color=darkred&left_text=visitors">
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cannarocks.cannarocks&right_color=darkred&left_text=visitors"  / -->
-</p>
+### 🧩 Languages & Runtime
+- **TypeScript** (Node.js, Bun) — backend, agents, orchestration, SDKs
+- **Python** — data workflows, automation, AI tooling
+- **Go** — CLI tools, infra utilities
+- **Bash** — automation, CI/CD scripting
 
+---
+
+### ☁️ Cloud & Infrastructure
+- **AWS (multi-account, org-level governance)**  
+  IAM, SSO, Cognito, Organizations, Control Tower, GuardDuty, CloudTrail, Config  
+- **Compute & Networking**  
+  ECS/Fargate, Lambda, EC2, ALB/NLB, VPC, PrivateLink, API Gateway  
+- **Storage & Data**  
+  S3, DynamoDB, RDS/Postgres, ClickHouse, OpenSearch  
+- **Observability**  
+  CloudWatch, X-Ray, structured logging, distributed tracing  
+- **Security**  
+  KMS, Secrets Manager, WAF, SCPs, least-privilege IAM, auditability-by-design  
+- **IaC**  
+  AWS CDK (TS), Terraform (occasional), GitHub Actions, versioned infra modules
+
+---
+
+### 🤖 AI, Agents & Data Intelligence
+- **LLM Orchestration** — agent frameworks, tool calling, pipelines, async workflows  
+- **Retrieval & Indexing** — embeddings, vector stores, hybrid search  
+- **RAG Architectures** — chunking, normalization, metadata governance  
+- **Model Ops** — evaluation, prompt versioning, observability, dataset governance  
+- **Agentic Workflows** — multi-step reasoning, planning, tool orchestration  
+- **Mastra** — deployments, debugging, cloud integration, PR contributions
+
+---
+
+### 🧱 Backend Engineering
+- **API Design** — REST, GraphQL, OpenAPI, versioning, authZ/authN  
+- **Event-driven systems** — SNS/SQS, EventBridge, async pipelines  
+- **Caching & Performance** — Redis, CDN, edge caching, invalidation strategies  
+- **Testing** — unit, integration, infra tests, smoke tests
+
+---
+
+### 🎨 Frontend & DX
+- **React / Next.js** — dashboards, internal tools, admin panels  
+- **Component libraries** — design systems, reusable UI modules  
+- **Developer Experience** — monorepos, Nx/Turborepo, codegen, linting, CI pipelines
+
+---
+
+### 🔐 Compliance & Governance
+- **Audit-ready processes** — traceability, reproducibility, formal controls  
+- **Secure SDLC** — code reviews, threat modeling, dependency governance  
+- **Operational tooling** — safe-by-default interfaces for non-technical teams  
 ###
 
-<br clear="both">
+---
 
-###
+## 🤝 Let’s connect
+- GitHub discussions & OSS PRs  
+- Architecture reviews  
+- AI infra, compliance, and cloud-native design
 
-<br clear="both">
-
-<div align="left">
-  <a href="https://linkedin.com/in/cannarozzoluca" target="_blank" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/cannarocks" target="_blank" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
+  
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cannarozzoluca)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cannarocks&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
